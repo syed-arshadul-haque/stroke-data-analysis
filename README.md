@@ -13,9 +13,6 @@ This project presents a comprehensive statistical, machine learning, and cluster
 - [5. Clustering Analysis](#5-clustering-analysis)
 - [6. Key Findings](#6-key-findings)
 - [7. Technologies Used](#7-technologies-used)
-- [8. Setup Instructions](#8-setup-instructions)
-- [9. Author](#9-author)
-
 ---
 
 ## 1. Descriptive Analytics
